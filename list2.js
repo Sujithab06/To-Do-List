@@ -46,4 +46,4 @@ function displayRemainingTasks() {
 }
 
 // Call the displayRemainingTasks function every two hours
-setInterval(displayRemainingTasks, 2 * 60 * 60 * 1000);
+setInterval(displayRemainingTasks, 1 * 60 * 60 * 1000);
