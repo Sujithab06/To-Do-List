@@ -17,7 +17,7 @@ displayRemainingTasks(): Function to remind the user about remaining tasks on th
 Adding Tasks: Simply type your task into the input field and press enter to add it to the list.
 Completing Tasks: Check the checkbox next to a task to mark it as completed and trigger the appreciation popup.
 Removing Tasks: Completed tasks are automatically removed from the list upon triggering the appreciation popup.
-Remaining Tasks Reminder: Receive reminders about remaining tasks every two hours.
+Remaining Tasks Reminder: Receive reminders about remaining tasks every one hour.
 
 # Contributions:
 Contributions to the Interactive To-Do List project are encouraged! If you have any suggestions, feature requests, or bug fixes, feel free to fork the repository and submit a pull request. Let's collaborate to make task management a more enjoyable experience for everyone.
